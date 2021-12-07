@@ -11,6 +11,7 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar" />
         </processorPath>
         <module name="BankKata" />
+        <module name="bank-kata-revisited" />
       </profile>
     </annotationProcessing>
   </component>
